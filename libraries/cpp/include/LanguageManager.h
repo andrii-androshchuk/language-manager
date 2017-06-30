@@ -1,9 +1,5 @@
 /* 
 	LanguageManager
-	
-	
-
-	Copyright (c) 2013 Androschuk Adndriy <androschuk.andriy@gmail.com>
 */
 
 #ifndef LANGUAGE_MANAGER_H_
